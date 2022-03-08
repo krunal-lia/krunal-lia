@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krunal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal-lia" alt="krunal-lia" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/liakrunal" target="blank"><img src="https://img.shields.io/twitter/follow/liakrunal?logo=twitter&style=for-the-badge" alt="liakrunal" /></a> </p>
-
 - 🔭 I’m currently working for **Supershare**
 
 - 🌱 I’m currently learning **golang, docker**
@@ -14,6 +10,10 @@
 - 💬 Ask me about **Javascript, Vue, Nodejs, React**
 
 - 📫 How to reach me **krunallia18@gmail.com**
+
+<br>
+<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal-lia&theme=onedark&title=Commits,Followers,Repositories,PullRequest&margin-w=20" alt="krunal-lia" /></a> </div>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
