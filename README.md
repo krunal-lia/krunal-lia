@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krunal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal-lia" alt="krunal-lia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal-lia" alt="krunal-lia" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/liakrunal" target="blank"><img src="https://img.shields.io/twitter/follow/liakrunal?logo=twitter&style=for-the-badge" alt="liakrunal" /></a> </p>
 
