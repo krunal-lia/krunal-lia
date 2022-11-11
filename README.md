@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krunal-lia](https://github.com/krunal-lia)
 
-- 💬 Ask me about **Javascript, Vue, Nodejs, React**
+- 💬 Ask me about **Javascript, GoLang, NodeJS**
 
 - 📫 How to reach me **krunallia18@gmail.com**
 
